@@ -236,3 +236,6 @@ ENV/
 /site
 
 # End of https://www.gitignore.io/api/python
+image-classification/preprocess_*.p 
+image-classification/cifar-10-batches-py/
+image-classification/cifar-10-python.tar.gz
