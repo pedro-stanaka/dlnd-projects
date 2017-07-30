@@ -239,4 +239,7 @@ ENV/
 image-classification/preprocess_*.p 
 image-classification/cifar-10-batches-py/
 image-classification/cifar-10-python.tar.gz
-tv-script-generation/preprocess.p
+preprocess.p
+
+language-translation/checkpoints/ 
+
