@@ -244,3 +244,4 @@ preprocess.p
 language-translation/checkpoints/ 
 
 language-translation/params.p
+face_generation/data
